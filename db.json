@@ -1,24 +1,24 @@
 {
-  "supermercado": [
+  "supermercado": [{
 	
-     "produtos": [
+     "produtos": [{
 	      "idProduto": 1,
 	      "nome": "desodorante",
 	      "quantidade": 5,
 	      "marca": "old spice",
 	      "Idfornecedor": 5
-     ],
+     }],
      
-     "fornecedor": [
+     "fornecedor": [{
 	      "idFornecedor": 1,
 	      "nome": "old spice",
-	      "endereço": [
+	      "endereço": {
 	        "cidade": "Cidade sede",
 	        "rua": "rua do desodorante sla",
 	        "numero": 55
-		      ]
-     ]
+	      }
+     }]
 
-  ]	
+  }]	
 
 }
