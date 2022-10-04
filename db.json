@@ -12,11 +12,11 @@
      "fornecedor": [{
 	      "idFornecedor": 5,
 	      "nome": "old spice",
-	      "endereço": {
+	      "endereço": [{
 	        "cidade": "Cidade sede",
 	        "rua": "rua do desodorante sla",
 	        "numero": 55
-	      }
+	      }]
      }]
 
   }]	
