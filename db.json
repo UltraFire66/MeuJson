@@ -1,5 +1,5 @@
 {
-  "supermercado": [{
+ 
 	
      "produtos": [{
 	      "idProduto": 1,
@@ -19,6 +19,6 @@
 	      }]
      }]
 
-  }]	
+
 
 }
